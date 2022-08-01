@@ -1,0 +1,5 @@
+For this excercise, I felt a little confused, that's because I haven't practiced testing on APIs a long time ago. 
+
+I was about to use Playwright or even T	estCafe for this section, but I felt more comfortable using Postman, because it's easier and more intuitive for all users.
+
+To be honest, I know that I have to practice more about API testing, I am more into E2E or Front-End automation testing, but it's something that a QA Automation must know.
